@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description"Content="Naucalpan de juarez adopta ">
+    <meta name="Keywords"Content="mexico,naucalpan,maltrato,Cuidar mascotas">
+    <meta name="Autor"Content="30 segundos">
+    <title>Adoptapta</title>
+    <script src="js/funciones.js"></script>
+</head>
+<body>
+    <section id="imagen"Alt="imagen">
+        <img src="img/imagen.png" width="100%"/>
+    </section>
+    <section id="formulario">
+        <form id="formulario">
+            <input type="text" placeholder="UserName" id="Caja1"/>
+            <input type="password" placeholder="Password" id="Caja2"/>
+            <select>
+                <option value="gatos">Gatos</option>
+                <option value="perros">Perros</option>
+            </select>
+            <input type="number" min='4' max="10">
+            <button>Enviar</button>
+        </form>
+    </select>
+    </section> 
+</body>
+</html>
