@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <head>
+        <title>JR</title>
+    </head>
+    <body>
+         <h1><b>Jorge Ramos</b></h1>
+      <p>descripcion:</p>
+      <spam>Soy muy malo</spam>
+      <h2>Gustos:</h2>
+        <ul>
+           <li>Edad:36<li>
+           <li>Maestro en eduacion<li>
+           <li>Web</li>
+       </ul>
+    <h3><b>Descripcion</b></h3>
+   </body>
+</html>
